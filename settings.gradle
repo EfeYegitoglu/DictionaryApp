@@ -1,0 +1,2 @@
+rootProject.name='SözlukSqlite'
+include ':app'
